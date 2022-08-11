@@ -1,0 +1,380 @@
+﻿  GLCamera.cc
+  MyForm.cpp
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(174): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool': Do not use this error prone implicit cast. Compare to end-iterator or use is_valid(), instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(557): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(177): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(178): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool': Do not use this error prone implicit cast. Compare to end-iterator or use is_valid(), instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(557): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(180): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(215): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool': Do not use this error prone implicit cast. Compare to end-iterator or use is_valid(), instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(557): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(220): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(222): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(229): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(244): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool': Do not use this error prone implicit cast. Compare to end-iterator or use is_valid(), instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(557): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(250): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(252): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(259): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(279): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(281): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(282): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(276): warning C4101: 'total_length': 未參考的區域變數
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(292): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(302): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(309): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(363): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(372): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(380): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(383): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(390): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(391): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(395): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(396): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(413): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(417): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(426): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(453): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(346): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(349): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(367): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool': Do not use this error prone implicit cast. Compare to end-iterator or use is_valid(), instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(557): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::operator bool' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(371): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::EdgeHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toEdgeHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(474): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(477): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(483): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1032): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1043): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1045): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1049): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1053): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1063): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1070): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1077): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1083): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1084): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1122): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1128): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1147): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1119): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1123): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1129): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1130): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1149): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1151): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1152): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1238): warning C4244: '=': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1239): warning C4244: '=': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1240): warning C4244: '引數': 將 'GLfloat' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1302): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1249): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1252): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1266): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1272): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1276): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1283): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1284): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1285): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1303): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1411): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1416): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1427): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1433): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1460): warning C4244: '正在初始化': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1471): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1534): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1536): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1413): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1418): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1429): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1439): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel::FaceHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toFaceHandle,0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1441): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(578): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1449): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::operator OpenMesh::VertexHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1450): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1511): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1513): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1520): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1521): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1577): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1588): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1590): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1556): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1558): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1565): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1566): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::EdgeHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_edge_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{12,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1627): warning C4244: '正在初始化': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1634): warning C4244: '正在初始化': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1635): warning C4244: '引數': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1640): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1660): warning C4244: '正在初始化': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1664): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1678): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1701): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1716): warning C4244: '正在初始化': 將 'wchar_t' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1683): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1685): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(133): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::VertexHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_vertex_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{4,{flat}}' }',0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1700): warning C4996: 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle': Implicit casts of iterators are unsafe. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/IteratorsT.hh(144): note: 請參閱 'OpenMesh::Iterators::GenericIteratorT<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel,{&OpenMesh::ArrayKernel::has_face_status,0},{&OpenMesh::ArrayKernel::[thunk]: __thiscall OpenMesh::ArrayKernel::`vcall'{16,{flat}}' }',0}>::operator OpenMesh::FaceHandle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1702): warning C4996: 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle': This function clutters your code. Use dereferencing operators -> and * instead.
+  C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh-5.2\src\OpenMesh/Core/Mesh/CirculatorsT.hh(567): note: 請參閱 'OpenMesh::Iterators::GenericCirculatorT_DEPRECATED<OpenMesh::PolyConnectivity::This,OpenMesh::ArrayKernel::FaceHandle,OpenMesh::ArrayKernel::VertexHandle,{&OpenMesh::Iterators::GenericCirculatorBaseT<OpenMesh::PolyConnectivity::This>::toVertexHandle,0}>::handle' 的宣告
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1783): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1800): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\MyForm.h(1810): warning C4018: '<': signed/unsigned 不相符
+MyForm.cpp(8): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+  正在產生程式碼...
+c:\users\user\desktop\project2\texture\openmesh_ex\openmesh_ex\myform.h(164): warning C4715: 'FindEdgePointToPoint': 不是所有控制路徑都傳回值
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(114): warning C4793: 'Eigen::internal::pset1<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh_EX\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{16}'': 函式會編譯成機器碼:
+  	非 clrcall 的 vcall Thunk 必須編譯為原生
+C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh_EX\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{4}'': 函式會編譯成機器碼:
+  	非 clrcall 的 vcall Thunk 必須編譯為原生
+C:\Users\user\Desktop\project2\texture\OpenMesh_EX\OpenMesh_EX\MyForm.cpp : warning C4793: 'OpenMesh::ArrayKernel::`vcall'{12}'': 函式會編譯成機器碼:
+  	非 clrcall 的 vcall Thunk 必須編譯為原生
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(127): warning C4793: 'Eigen::internal::psub<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(114): warning C4793: 'Eigen::internal::pset1<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(419): warning C4793: 'Eigen::internal::predux<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(419): warning C4793: 'Eigen::internal::predux<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(420): warning C4793: 'Eigen::internal::predux<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(312): warning C4793: 'Eigen::internal::pfirst<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(312): warning C4793: 'Eigen::internal::pfirst<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(275): warning C4793: 'Eigen::internal::pstore<int,__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(274): warning C4793: 'Eigen::internal::pstore<double,__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(221): warning C4793: 'Eigen::internal::pload<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(256): warning C4793: 'Eigen::internal::ploadu<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(120): warning C4793: 'Eigen::internal::plset<int>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(157): warning C4793: 'Eigen::internal::pmul<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(115): warning C4793: 'Eigen::internal::pset1<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\users\user\desktop\project2\texture\openmesh_ex\eigen-3.2.8\eigen\src\core\arch\sse\packetmath.h(124): warning C4793: 'Eigen::internal::padd<__m128i>': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+  OpenMesh_EX.vcxproj -> C:\Users\user\Desktop\project2\texture\OpenMesh_EX\Release\OpenMesh_EX.exe
+  OpenMesh_EX.vcxproj -> C:\Users\user\Desktop\project2\texture\OpenMesh_EX\Release\OpenMesh_EX.pdb (Full PDB)
